@@ -21,3 +21,4 @@ def find_the_cheese(strings)# code an argument here
   strings.find do |maybe_cheese|
   cheese_types.include?(maybe_cheese)
 end
+end
